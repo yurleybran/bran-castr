@@ -1,0 +1,99 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("fondo.jpg.jpg");
+    
+    background-repeat: repeat;
+    
+    }
+    
+    
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("medellin.jpeg")
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: rgb(255, 255, 255);
+    
+     
+    
+    }
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 316px;
+        
+         
+        
+        }
+
+        .infosocia{
+    
+            position: relative;
+            
+             
+            
+            width: 190px;
+            
+            height: 190px;
+            
+            border-radius: 10px;
+            
+            background-repeat: no-repeat;
+            
+             
+            
+            left: 180px;
+            
+            background-image: url("infografiasociales.jpg")
+            
+            }
